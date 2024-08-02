@@ -10,3 +10,4 @@ print("hello")
 print("hello")
 print("hello")
 
+print(np.random.randint(1,100))
