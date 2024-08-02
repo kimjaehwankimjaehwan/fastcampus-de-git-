@@ -11,3 +11,8 @@ print("hello")
 print("hello")
 
 print(np.random.randint(1,100))
+print(np.random.randint(1,100))
+print(np.random.randint(1,100))
+print(np.random.randint(1,100))
+print(np.random.randint(1,100))
+print(np.random.randint(1,100))
