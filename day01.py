@@ -4,15 +4,9 @@ import pandas as pd
 a = np.arange(1,10,2)
 print(a)
 
-print("hello")
-print("hello")
-print("hello")
-print("hello")
-print("hello")
 
 print(np.random.randint(1,100))
-print(np.random.randint(1,100))
-print(np.random.randint(1,100))
+<<<<<<< HEAD
 =======
 print("hello, welcom to the world")
 
@@ -28,3 +22,7 @@ for i in range(10)
     print("wowowowowowo")
 for i in range(10)
     print("wowowowowowo")
+=======
+
+print(np.random.randint(1,100))
+>>>>>>> parent of fc2b63c (conflit resolve)
