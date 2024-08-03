@@ -30,6 +30,9 @@ print(result)
 
 # 4
 result.to_csv('result.csv', index = False)
+result.to_json('result.json', indent = 4)
+result.to_xml('result.xml', index = False)
+
 
 
 
